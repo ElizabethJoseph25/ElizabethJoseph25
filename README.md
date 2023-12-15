@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElizabethJoseph25
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on new projects in java
+- 🌱 I’m currently learning Java and Data Science
+- 💞️ I’m looking to collaborate on new projects in Java and Data Science
 
 
 <!---
